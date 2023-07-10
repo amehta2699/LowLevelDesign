@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String args[]) {
-        Game obj = new Game();
+        TicTacToeGame obj = new TicTacToeGame();
         obj.startGame();
     }
 }
